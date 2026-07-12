@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+seen_slots.json
+assignments.json
+reminder_sent.txt
